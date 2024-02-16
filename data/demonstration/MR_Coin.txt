@@ -1,0 +1,8 @@
+Q: A coin is heads up. Jeff does not flip the coin. Jen flips the coin. Giselle flips the coin. Noel does not flip the coin. Is the coin still heads up?
+A: The question can be simplified to: It is known that S = A = 1. Jeff does not flip the coin, so A = A = 1;  Jen flips the coin, so A = -A = -1; Giselle flips the coin, so A = -A = -(-1) = 1; Noel does not flip the coin, so A = A = 1. Since now A is equal to S, so the coin is still head up.
+So the answer is: yes
+Q: A coin is heads up. Wilmer flips the coin. Valerie does not flip the coin. Melissa flips the coin. Eloisa flips the coin. Is the coin still heads up?
+A: The question can be simplified to: It is known that S = A = 1. Wilmer flips the coin, so A = -A = -1; Valerie does not flip the coin, so A = A = -1; Melissa flips the coin, so A = -A = -(-1) = 1; Eloisa flips the coin, so A = -A = -1. Since now A is not equal to S, so the coin is not still head up.
+So the answer is: no
+
+# 297 tokens

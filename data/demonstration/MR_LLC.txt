@@ -1,0 +1,9 @@
+Q: Take the last letters of each words in "Brooklyn Dawn Tay Gene" and concatenate them.
+A: The question can be simplified to: It is known that s1 = "Brooklyn", s2 = "Dawn", s3 = "Tay", s4 = "Gene". Concatenate s1[-1] = "n", s2[-1] = "n", s3[-1] = "y" and s4[-1] = "e" as ["n", "n", "y", "e"], namely "nnye".
+So the answer is: nnye
+
+Q: Take the last letters of each words in "Dorian Mayra Freddie Magaly" and concatenate them.
+A: The question can be simplified to: It is known that s1 = "Dorian", s2 = "Mayra", s3 = "Freddie", s4 = "Magaly". Concatenate s1[-1] = "n", s2[-1] = "a", s3[-1] = "e" and s4[-1] = "y" as ["n", "a", "e", "y"], namely "naey".
+So the answer is: naey
+
+# 276 tokens

@@ -1,0 +1,2510 @@
+************************
+0_th data:
+ The question can be simplified to: It is known that A = 1.
+Vernell says Sherrie tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Alexis says Vernell lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Michaela says Alexis tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Elanor says Michaela tells the truth: truth -> D' = 1, since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+1_th data:
+ The question can be simplified to: It is known that A = 0.
+Sherrie says Kristian lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Delbert says Sherrie lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Jerry says Delbert tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shalonda says Jerry tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+2_th data:
+ The question can be simplified to: It is known that A = 1.
+Helene says Vina lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Kandi says Helene tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Jamey says Kandi lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Ka says Jamey lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+3_th data:
+ The question can be simplified to: It is known that A = 1.
+Ka says Christie tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Delbert says Ka lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Leda says Delbert tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Lorine says Leda tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+4_th data:
+ The question can be simplified to: It is known that A = 0.
+Raymond says Tamika tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Willian says Raymond tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Shaunda says Willian lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Elanor says Shaunda tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+5_th data:
+ The question can be simplified to: It is known that A = 1.
+Kandi says Vernell tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Alexis says Kandi tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Sima says Alexis lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Phoebe says Sima tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+6_th data:
+ The question can be simplified to: It is known that A = 0.
+Teressa says Shalonda tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Tamika says Teressa lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Lorine says Tamika tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Jaymie says Lorine lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+7_th data:
+ The question can be simplified to: It is known that A = 0.
+Crista says Jim lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Vernell says Crista tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Bernita says Vernell tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Millicent says Bernita tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+8_th data:
+ The question can be simplified to: It is known that A = 1.
+Conception says Fletcher tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Bernita says Conception tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Jamey says Bernita tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Teressa says Jamey lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+9_th data:
+ The question can be simplified to: It is known that A = 1.
+Jim says Rashida lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Alejandro says Jim lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Tamika says Alejandro tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Fidel says Tamika lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+10_th data:
+ The question can be simplified to: It is known that A = 0.
+Millicent says Jerry tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Sal says Millicent tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Amberly says Sal tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shenna says Amberly lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+11_th data:
+ The question can be simplified to: It is known that A = 0.
+Conception says Audrie lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Teressa says Conception tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Delfina says Teressa lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Helene says Delfina tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+12_th data:
+ The question can be simplified to: It is known that A = 1.
+Millicent says Millie lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Phoebe says Millicent tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sherrie says Phoebe lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Raymond says Sherrie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+13_th data:
+ The question can be simplified to: It is known that A = 1.
+Shenna says Inga lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Rashida says Shenna tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Ka says Rashida tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shalonda says Ka tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+14_th data:
+ The question can be simplified to: It is known that A = 0.
+Shenna says Amberly tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Willian says Shenna tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Raymond says Willian lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Sal says Raymond lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+15_th data:
+ The question can be simplified to: It is known that A = 0.
+Inga says Willian tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Fidel says Inga lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Gwenn says Fidel tells the truth: truth -> C' = 0. Since C = 1, C is not equal to C', so D = 1.
+Crista says Gwenn tells the truth: truth -> D' = 0. Since D = 1, D is not equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+16_th data:
+ The question can be simplified to: It is known that A = 0.
+Christie says Ka tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Jerry says Christie lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Crista says Jerry lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Yoland says Crista tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+17_th data:
+ The question can be simplified to: It is known that A = 0.
+Andree says Ka tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Audrie says Andree lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Antwan says Audrie tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Millie says Antwan tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+18_th data:
+ The question can be simplified to: It is known that A = 1.
+Alexis says Shalonda tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Christie says Alexis lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Inga says Christie tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Crista says Inga tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+19_th data:
+ The question can be simplified to: It is known that A = 0.
+Sal says Fidel tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Osvaldo says Sal lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Alexis says Osvaldo lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Millie says Alexis tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+20_th data:
+ The question can be simplified to: It is known that A = 1.
+Sal says Raymond lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Alexis says Sal lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Helene says Alexis lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Elanor says Helene lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+21_th data:
+ The question can be simplified to: It is known that A = 1.
+Sal says Ryan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Leda says Sal tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Rashida says Leda tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Alejandro says Rashida tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+22_th data:
+ The question can be simplified to: It is known that A = 0.
+Millie says Sima tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Jerry says Millie tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Vina says Jerry lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Maybelle says Vina tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+23_th data:
+ The question can be simplified to: It is known that A = 1.
+Christie says Phoebe tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Fletcher says Christie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Amberly says Fletcher lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Raymond says Amberly tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+24_th data:
+ The question can be simplified to: It is known that A = 1.
+Fletcher says Delfina lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Amberly says Fletcher lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Audrie says Amberly tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Lorine says Audrie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+25_th data:
+ The question can be simplified to: It is known that A = 1.
+Jamey says Amberly tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Shalonda says Jamey lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Antwan says Shalonda tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Alejandro says Antwan lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+26_th data:
+ The question can be simplified to: It is known that A = 1.
+Alexis says Leda lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Sal says Alexis lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Phoebe says Sal tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Gwenn says Phoebe tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+27_th data:
+ The question can be simplified to: It is known that A = 0.
+Phoebe says Fletcher tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Vina says Phoebe tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Andree says Vina tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Willian says Andree tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+28_th data:
+ The question can be simplified to: It is known that A = 0.
+Kristian says Ryan lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Teressa says Kristian tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Amberly says Teressa tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Jamey says Amberly tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+29_th data:
+ The question can be simplified to: It is known that A = 0.
+Jaymie says Shalonda tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Raymond says Jaymie lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Audrie says Raymond lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Sherrie says Audrie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+30_th data:
+ The question can be simplified to: It is known that A = 1.
+Michaela says Kandi lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Vernell says Michaela lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Antwan says Vernell tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Sal says Antwan lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+31_th data:
+ The question can be simplified to: It is known that A = 0.
+Sherrie says Audrie lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Willian says Sherrie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Conception says Willian tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Gwenn says Conception lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+32_th data:
+ The question can be simplified to: It is known that A = 1.
+Willian says Delfina tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Crista says Willian lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Shalonda says Crista lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Shenna says Shalonda tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+33_th data:
+ The question can be simplified to: It is known that A = 0.
+Helene says Jerry lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Alexis says Helene tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Sherrie says Alexis tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Michael says Sherrie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+34_th data:
+ The question can be simplified to: It is known that A = 1.
+Tamika says Fidel lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Shenna says Tamika lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Audrie says Shenna lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Jim says Audrie tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+35_th data:
+ The question can be simplified to: It is known that A = 1.
+Audrie says Andree tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Jerry says Audrie lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Helene says Jerry lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Bernita says Helene tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+36_th data:
+ The question can be simplified to: It is known that A = 0.
+Fletcher says Fidel tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Yoland says Fletcher lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Raymond says Yoland lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Leda says Raymond lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+37_th data:
+ The question can be simplified to: It is known that A = 1.
+Ka says Tamika tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Fidel says Ka tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Elanor says Fidel tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Amberly says Elanor tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+38_th data:
+ The question can be simplified to: It is known that A = 0.
+Jamey says Maybelle tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Phoebe says Jamey lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Willian says Phoebe lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shalonda says Willian lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+39_th data:
+ The question can be simplified to: It is known that A = 0.
+Vernell says Jamey tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Millicent says Vernell lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Rashida says Millicent tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Vina says Rashida tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+40_th data:
+ The question can be simplified to: It is known that A = 0.
+Amberly says Alejandro tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Osvaldo says Amberly lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Vernell says Osvaldo lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shenna says Vernell lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+41_th data:
+ The question can be simplified to: It is known that A = 1.
+Kandi says Fidel lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Christie says Kandi tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Leda says Christie lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Sima says Leda lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+42_th data:
+ The question can be simplified to: It is known that A = 1.
+Millicent says Jaymie lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Millie says Millicent tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Vina says Millie lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Leda says Vina tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+43_th data:
+ The question can be simplified to: It is known that A = 1.
+Helene says Fletcher lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Elanor says Helene tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Yoland says Elanor tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Audrie says Yoland lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+44_th data:
+ The question can be simplified to: It is known that A = 0.
+Alexis says Millicent lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Inga says Alexis tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Christie says Inga lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Gwenn says Christie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+45_th data:
+ The question can be simplified to: It is known that A = 1.
+Yoland says Sima lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Amberly says Yoland tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Inga says Amberly lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Alexis says Inga tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+46_th data:
+ The question can be simplified to: It is known that A = 1.
+Millicent says Millie tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Raymond says Millicent tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Crista says Raymond lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Ka says Crista tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+47_th data:
+ The question can be simplified to: It is known that A = 0.
+Millicent says Michaela lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Delbert says Millicent lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Bernita says Delbert lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Teressa says Bernita tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+48_th data:
+ The question can be simplified to: It is known that A = 1.
+Yoland says Audrie lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Shaunda says Yoland tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Raymond says Shaunda lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Maybelle says Raymond lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+49_th data:
+ The question can be simplified to: It is known that A = 0.
+Teressa says Fletcher lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Vernell says Teressa lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Dallas says Vernell lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Millicent says Dallas tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+50_th data:
+ The question can be simplified to: It is known that A = 1.
+Willian says Rashida lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Christie says Willian lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Ryan says Christie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shaunda says Ryan lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+51_th data:
+ The question can be simplified to: It is known that A = 1.
+Ka says Elanor lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Delbert says Ka tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Michaela says Delbert lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Sherrie says Michaela lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+52_th data:
+ The question can be simplified to: It is known that A = 0.
+Amberly says Andree tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Gwenn says Amberly tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Willian says Gwenn lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Alexis says Willian tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+53_th data:
+ The question can be simplified to: It is known that A = 1.
+Michael says Bernita tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Fidel says Michael lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Dallas says Fidel tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Millicent says Dallas lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+54_th data:
+ The question can be simplified to: It is known that A = 1.
+Ka says Fletcher tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Elanor says Ka lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Vernell says Elanor lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Delfina says Vernell tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+55_th data:
+ The question can be simplified to: It is known that A = 1.
+Alejandro says Kandi tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Millicent says Alejandro lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Shalonda says Millicent lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Conception says Shalonda lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+56_th data:
+ The question can be simplified to: It is known that A = 1.
+Millie says Millicent tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Michael says Millie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Antwan says Michael lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Alexis says Antwan tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+57_th data:
+ The question can be simplified to: It is known that A = 0.
+Helene says Jerry lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Kandi says Helene tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Jaymie says Kandi lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shalonda says Jaymie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+58_th data:
+ The question can be simplified to: It is known that A = 1.
+Sima says Tamika tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Rashida says Sima lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Delfina says Rashida lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Jerry says Delfina lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+59_th data:
+ The question can be simplified to: It is known that A = 1.
+Fletcher says Ka tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Maybelle says Fletcher lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Lorine says Maybelle lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Crista says Lorine tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+60_th data:
+ The question can be simplified to: It is known that A = 1.
+Delfina says Delbert lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Antwan says Delfina tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Helene says Antwan lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Sima says Helene lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+61_th data:
+ The question can be simplified to: It is known that A = 1.
+Bernita says Maybelle tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Inga says Bernita tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Tamika says Inga lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Helene says Tamika tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+62_th data:
+ The question can be simplified to: It is known that A = 0.
+Leda says Delfina lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Fidel says Leda lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Sal says Fidel tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Andree says Sal lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+63_th data:
+ The question can be simplified to: It is known that A = 1.
+Elanor says Jerry tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Gwenn says Elanor tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Kandi says Gwenn tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Dallas says Kandi tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+64_th data:
+ The question can be simplified to: It is known that A = 0.
+Michael says Crista tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Audrie says Michael lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Sherrie says Audrie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Michaela says Sherrie tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+65_th data:
+ The question can be simplified to: It is known that A = 0.
+Ka says Jim lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Jerry says Ka tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Fletcher says Jerry tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Kandi says Fletcher lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+66_th data:
+ The question can be simplified to: It is known that A = 1.
+Michaela says Sima lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Leda says Michaela tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Fletcher says Leda lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Vina says Fletcher tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+67_th data:
+ The question can be simplified to: It is known that A = 0.
+Gwenn says Vernell lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Teressa says Gwenn lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Bernita says Teressa tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Christie says Bernita lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+68_th data:
+ The question can be simplified to: It is known that A = 0.
+Michael says Fidel lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Fletcher says Michael lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Inga says Fletcher tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Andree says Inga lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+69_th data:
+ The question can be simplified to: It is known that A = 1.
+Jamey says Phoebe lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Audrie says Jamey tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Michaela says Audrie lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Vina says Michaela lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+70_th data:
+ The question can be simplified to: It is known that A = 0.
+Phoebe says Kandi tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Yoland says Phoebe tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Fletcher says Yoland lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Lorine says Fletcher tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+71_th data:
+ The question can be simplified to: It is known that A = 1.
+Crista says Kandi lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Ryan says Crista tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Gwenn says Ryan tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Delfina says Gwenn tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+72_th data:
+ The question can be simplified to: It is known that A = 0.
+Shenna says Millicent lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Willian says Shenna tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Kandi says Willian lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Vernell says Kandi lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+73_th data:
+ The question can be simplified to: It is known that A = 1.
+Raymond says Jamey lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Audrie says Raymond lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Michaela says Audrie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Rashida says Michaela lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+74_th data:
+ The question can be simplified to: It is known that A = 1.
+Andree says Osvaldo tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Willian says Andree lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Vina says Willian tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Jaymie says Vina tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+75_th data:
+ The question can be simplified to: It is known that A = 1.
+Shalonda says Leda lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Shenna says Shalonda tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Christie says Shenna lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Crista says Christie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+76_th data:
+ The question can be simplified to: It is known that A = 1.
+Teressa says Conception lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Sal says Teressa tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Fidel says Sal tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shenna says Fidel lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+77_th data:
+ The question can be simplified to: It is known that A = 1.
+Helene says Ryan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Kandi says Helene tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Inga says Kandi tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Delbert says Inga lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+78_th data:
+ The question can be simplified to: It is known that A = 0.
+Christie says Ryan lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Amberly says Christie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Shenna says Amberly tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Jamey says Shenna lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+79_th data:
+ The question can be simplified to: It is known that A = 1.
+Dallas says Kristian tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Osvaldo says Dallas lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Millie says Osvaldo tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Vina says Millie tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+80_th data:
+ The question can be simplified to: It is known that A = 1.
+Jamey says Christie tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Michael says Jamey lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Rashida says Michael tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Teressa says Rashida tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+81_th data:
+ The question can be simplified to: It is known that A = 0.
+Ryan says Rashida tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Vernell says Ryan tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Shaunda says Vernell lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Amberly says Shaunda lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+82_th data:
+ The question can be simplified to: It is known that A = 0.
+Tamika says Elanor lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Ka says Tamika tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Shaunda says Ka lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Conception says Shaunda lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+83_th data:
+ The question can be simplified to: It is known that A = 0.
+Willian says Teressa lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Jamey says Willian lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Ryan says Jamey lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Kandi says Ryan lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+84_th data:
+ The question can be simplified to: It is known that A = 0.
+Jaymie says Audrie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Phoebe says Jaymie lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Conception says Phoebe tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Michael says Conception lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+85_th data:
+ The question can be simplified to: It is known that A = 1.
+Audrie says Bernita lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Delfina says Audrie tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Vina says Delfina lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Sal says Vina tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+86_th data:
+ The question can be simplified to: It is known that A = 0.
+Raymond says Jamey lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Ka says Raymond lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Bernita says Ka tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Teressa says Bernita lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+87_th data:
+ The question can be simplified to: It is known that A = 0.
+Kristian says Teressa lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Sal says Kristian tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Audrie says Sal lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Leda says Audrie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+88_th data:
+ The question can be simplified to: It is known that A = 1.
+Lorine says Helene lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Raymond says Lorine tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Ka says Raymond tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Christie says Ka tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+89_th data:
+ The question can be simplified to: It is known that A = 0.
+Kandi says Ryan lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Lorine says Kandi lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Christie says Lorine tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Fletcher says Christie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+90_th data:
+ The question can be simplified to: It is known that A = 0.
+Gwenn says Jamey tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Yoland says Gwenn tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Kandi says Yoland tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Osvaldo says Kandi tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+91_th data:
+ The question can be simplified to: It is known that A = 1.
+Helene says Antwan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Gwenn says Helene tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Sal says Gwenn tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Shaunda says Sal lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+92_th data:
+ The question can be simplified to: It is known that A = 1.
+Tamika says Jim tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Helene says Tamika tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Jaymie says Helene tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Conception says Jaymie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+93_th data:
+ The question can be simplified to: It is known that A = 1.
+Jim says Sima lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Gwenn says Jim tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Phoebe says Gwenn tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Rashida says Phoebe lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+94_th data:
+ The question can be simplified to: It is known that A = 1.
+Delfina says Jamey lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Vina says Delfina tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Teressa says Vina tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Conception says Teressa lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+95_th data:
+ The question can be simplified to: It is known that A = 1.
+Helene says Phoebe lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Sima says Helene lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Alejandro says Sima tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Michaela says Alejandro lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+96_th data:
+ The question can be simplified to: It is known that A = 1.
+Teressa says Sima tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Vina says Teressa lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Crista says Vina lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Phoebe says Crista tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+97_th data:
+ The question can be simplified to: It is known that A = 0.
+Michaela says Jamey tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Millicent says Michaela lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Elanor says Millicent tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Rashida says Elanor lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+98_th data:
+ The question can be simplified to: It is known that A = 1.
+Alexis says Millicent lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Jaymie says Alexis lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Willian says Jaymie tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Leda says Willian lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+99_th data:
+ The question can be simplified to: It is known that A = 0.
+Christie says Jaymie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Alejandro says Christie lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Gwenn says Alejandro tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Sal says Gwenn lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+100_th data:
+ The question can be simplified to: It is known that A = 0.
+Leda says Michael lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Delbert says Leda tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Tamika says Delbert tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Fidel says Tamika lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+101_th data:
+ The question can be simplified to: It is known that A = 1.
+Vina says Leda lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Delfina says Vina tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Alejandro says Delfina lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Shaunda says Alejandro tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+102_th data:
+ The question can be simplified to: It is known that A = 0.
+Delfina says Andree lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Jim says Delfina tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Gwenn says Jim lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Delbert says Gwenn lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+103_th data:
+ The question can be simplified to: It is known that A = 0.
+Jamey says Andree lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Shaunda says Jamey lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Delfina says Shaunda lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Christie says Delfina lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+104_th data:
+ The question can be simplified to: It is known that A = 1.
+Shalonda says Crista lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Millicent says Shalonda lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Vernell says Millicent lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Inga says Vernell tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+105_th data:
+ The question can be simplified to: It is known that A = 1.
+Elanor says Conception tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Alexis says Elanor tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Fidel says Alexis tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Delbert says Fidel lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+106_th data:
+ The question can be simplified to: It is known that A = 1.
+Leda says Elanor lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Osvaldo says Leda tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Jim says Osvaldo lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Gwenn says Jim lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+107_th data:
+ The question can be simplified to: It is known that A = 1.
+Shaunda says Ryan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Leda says Shaunda lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Teressa says Leda lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Christie says Teressa tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+108_th data:
+ The question can be simplified to: It is known that A = 0.
+Ryan says Shaunda tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Shalonda says Ryan lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Bernita says Shalonda lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Michaela says Bernita tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+109_th data:
+ The question can be simplified to: It is known that A = 1.
+Shenna says Alexis tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Yoland says Shenna tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Ka says Yoland tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Inga says Ka tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+110_th data:
+ The question can be simplified to: It is known that A = 0.
+Jerry says Delfina tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Maybelle says Jerry tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Dallas says Maybelle lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Kristian says Dallas tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+111_th data:
+ The question can be simplified to: It is known that A = 1.
+Andree says Gwenn tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Yoland says Andree lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Sal says Yoland lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Crista says Sal lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+112_th data:
+ The question can be simplified to: It is known that A = 1.
+Jim says Crista lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Delfina says Jim lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Phoebe says Delfina lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Bernita says Phoebe tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+113_th data:
+ The question can be simplified to: It is known that A = 1.
+Alejandro says Jim lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Phoebe says Alejandro lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Shaunda says Phoebe tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Kandi says Shaunda lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+114_th data:
+ The question can be simplified to: It is known that A = 0.
+Ryan says Osvaldo lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Andree says Ryan tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Rashida says Andree tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Millie says Rashida tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+115_th data:
+ The question can be simplified to: It is known that A = 1.
+Michaela says Yoland tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Sima says Michaela tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Shaunda says Sima tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Osvaldo says Shaunda lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+116_th data:
+ The question can be simplified to: It is known that A = 0.
+Rashida says Conception tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Alejandro says Rashida tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sherrie says Alejandro lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Amberly says Sherrie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+117_th data:
+ The question can be simplified to: It is known that A = 1.
+Vernell says Teressa lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Sherrie says Vernell tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Tamika says Sherrie lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Millicent says Tamika tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+118_th data:
+ The question can be simplified to: It is known that A = 0.
+Michael says Vernell lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Dallas says Michael lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Shalonda says Dallas tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Jamey says Shalonda lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+119_th data:
+ The question can be simplified to: It is known that A = 1.
+Ryan says Jim tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Millicent says Ryan tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Audrie says Millicent tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Elanor says Audrie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+120_th data:
+ The question can be simplified to: It is known that A = 0.
+Dallas says Elanor tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Fletcher says Dallas lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Jamey says Fletcher tells the truth: truth -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Delfina says Jamey lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: No
+************************
+************************
+121_th data:
+ The question can be simplified to: It is known that A = 1.
+Shenna says Alejandro tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Christie says Shenna tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Shalonda says Christie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Jerry says Shalonda lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+122_th data:
+ The question can be simplified to: It is known that A = 0.
+Phoebe says Osvaldo lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Kandi says Phoebe tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Crista says Kandi tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Delbert says Crista lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+123_th data:
+ The question can be simplified to: It is known that A = 0.
+Jerry says Bernita tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Delbert says Jerry lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Jamey says Delbert tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Shenna says Jamey lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+124_th data:
+ The question can be simplified to: It is known that A = 1.
+Phoebe says Willian lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Alejandro says Phoebe lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Lorine says Alejandro tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Christie says Lorine tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+125_th data:
+ The question can be simplified to: It is known that A = 1.
+Vernell says Millicent lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Tamika says Vernell tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Osvaldo says Tamika tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shenna says Osvaldo lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+126_th data:
+ The question can be simplified to: It is known that A = 0.
+Shalonda says Amberly tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Helene says Shalonda tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sima says Helene tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Christie says Sima tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+127_th data:
+ The question can be simplified to: It is known that A = 0.
+Jaymie says Christie lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Lorine says Jaymie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Bernita says Lorine tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Delfina says Bernita lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+128_th data:
+ The question can be simplified to: It is known that A = 1.
+Teressa says Helene tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Jamey says Teressa lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Alexis says Jamey lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Osvaldo says Alexis tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+129_th data:
+ The question can be simplified to: It is known that A = 1.
+Michaela says Willian lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Conception says Michaela lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Inga says Conception tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Sal says Inga lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+130_th data:
+ The question can be simplified to: It is known that A = 0.
+Osvaldo says Lorine lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Alejandro says Osvaldo lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Gwenn says Alejandro tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Dallas says Gwenn lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+131_th data:
+ The question can be simplified to: It is known that A = 1.
+Elanor says Christie lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Jaymie says Elanor tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Jamey says Jaymie lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Alexis says Jamey tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+132_th data:
+ The question can be simplified to: It is known that A = 1.
+Osvaldo says Maybelle lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Kandi says Osvaldo lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Jerry says Kandi lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Alejandro says Jerry lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+133_th data:
+ The question can be simplified to: It is known that A = 0.
+Vina says Alejandro lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Vernell says Vina tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Fidel says Vernell lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Inga says Fidel tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+134_th data:
+ The question can be simplified to: It is known that A = 1.
+Willian says Millicent lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Crista says Willian lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Teressa says Crista tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Rashida says Teressa tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+135_th data:
+ The question can be simplified to: It is known that A = 0.
+Gwenn says Osvaldo lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Michael says Gwenn lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Elanor says Michael lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Sal says Elanor tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+136_th data:
+ The question can be simplified to: It is known that A = 0.
+Lorine says Ka tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Sal says Lorine lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Amberly says Sal lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Conception says Amberly lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+137_th data:
+ The question can be simplified to: It is known that A = 1.
+Raymond says Jerry tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Yoland says Raymond tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Elanor says Yoland tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Jamey says Elanor lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+138_th data:
+ The question can be simplified to: It is known that A = 1.
+Raymond says Helene lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Andree says Raymond tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Michael says Andree tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Amberly says Michael tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+139_th data:
+ The question can be simplified to: It is known that A = 1.
+Crista says Willian tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Vina says Crista lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Fidel says Vina lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Fletcher says Fidel lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+140_th data:
+ The question can be simplified to: It is known that A = 1.
+Michaela says Lorine lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Millicent says Michaela tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Fletcher says Millicent tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shaunda says Fletcher tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+141_th data:
+ The question can be simplified to: It is known that A = 0.
+Gwenn says Jerry lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Fidel says Gwenn lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Millicent says Fidel tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Lorine says Millicent tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+142_th data:
+ The question can be simplified to: It is known that A = 0.
+Jaymie says Millie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Jamey says Jaymie tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sal says Jamey lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Christie says Sal lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+143_th data:
+ The question can be simplified to: It is known that A = 0.
+Crista says Shalonda tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Yoland says Crista tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Ka says Yoland tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Michaela says Ka lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+144_th data:
+ The question can be simplified to: It is known that A = 1.
+Antwan says Maybelle tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Audrie says Antwan tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Ryan says Audrie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Delfina says Ryan lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+145_th data:
+ The question can be simplified to: It is known that A = 1.
+Ka says Bernita lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Yoland says Ka lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Gwenn says Yoland lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Fidel says Gwenn lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+146_th data:
+ The question can be simplified to: It is known that A = 1.
+Ryan says Audrie lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Rashida says Ryan lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Fletcher says Rashida tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Shaunda says Fletcher tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+147_th data:
+ The question can be simplified to: It is known that A = 0.
+Teressa says Delfina lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Amberly says Teressa tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Ryan says Amberly lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Millie says Ryan lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+148_th data:
+ The question can be simplified to: It is known that A = 1.
+Michaela says Willian tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Sima says Michaela lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Inga says Sima tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Audrie says Inga lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+149_th data:
+ The question can be simplified to: It is known that A = 1.
+Lorine says Teressa lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Antwan says Lorine tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Fidel says Antwan tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Phoebe says Fidel lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+150_th data:
+ The question can be simplified to: It is known that A = 1.
+Crista says Elanor lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Vernell says Crista lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Shalonda says Vernell lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Teressa says Shalonda lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+151_th data:
+ The question can be simplified to: It is known that A = 1.
+Gwenn says Yoland tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Michaela says Gwenn lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Jamey says Michaela tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Amberly says Jamey lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+152_th data:
+ The question can be simplified to: It is known that A = 1.
+Millicent says Gwenn lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Antwan says Millicent tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Teressa says Antwan lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Shenna says Teressa lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+153_th data:
+ The question can be simplified to: It is known that A = 1.
+Leda says Helene lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Antwan says Leda tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Andree says Antwan lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Shaunda says Andree lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+154_th data:
+ The question can be simplified to: It is known that A = 1.
+Kandi says Sherrie tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Conception says Kandi tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Michael says Conception tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Christie says Michael tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+155_th data:
+ The question can be simplified to: It is known that A = 1.
+Gwenn says Delbert lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Audrie says Gwenn lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Christie says Audrie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Alexis says Christie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+156_th data:
+ The question can be simplified to: It is known that A = 1.
+Jaymie says Antwan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Maybelle says Jaymie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Alexis says Maybelle lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Millicent says Alexis lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+157_th data:
+ The question can be simplified to: It is known that A = 1.
+Fidel says Delfina tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Helene says Fidel lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Crista says Helene lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Ka says Crista lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+158_th data:
+ The question can be simplified to: It is known that A = 0.
+Yoland says Jim lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Willian says Yoland tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Delbert says Willian lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shalonda says Delbert tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+159_th data:
+ The question can be simplified to: It is known that A = 0.
+Millicent says Elanor tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Millie says Millicent lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Michaela says Millie tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Kandi says Michaela lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+160_th data:
+ The question can be simplified to: It is known that A = 1.
+Yoland says Jerry lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Tamika says Yoland tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Alexis says Tamika tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Ryan says Alexis tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+161_th data:
+ The question can be simplified to: It is known that A = 1.
+Jerry says Sima tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Sal says Jerry lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Inga says Sal lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Willian says Inga lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+162_th data:
+ The question can be simplified to: It is known that A = 1.
+Shalonda says Willian tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Helene says Shalonda tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Millicent says Helene lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Andree says Millicent lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+163_th data:
+ The question can be simplified to: It is known that A = 1.
+Amberly says Ryan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Kristian says Amberly lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Bernita says Kristian lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Alejandro says Bernita tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+164_th data:
+ The question can be simplified to: It is known that A = 1.
+Rashida says Vernell lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Christie says Rashida tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sherrie says Christie tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Jim says Sherrie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+165_th data:
+ The question can be simplified to: It is known that A = 0.
+Elanor says Shaunda lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Fidel says Elanor tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Lorine says Fidel tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Raymond says Lorine lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+166_th data:
+ The question can be simplified to: It is known that A = 1.
+Lorine says Gwenn lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Antwan says Lorine tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Eleanor says Antwan tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Delfina says Eleanor tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+167_th data:
+ The question can be simplified to: It is known that A = 1.
+Antwan says Shenna lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Tamika says Antwan lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Elanor says Tamika lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Rashida says Elanor tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+168_th data:
+ The question can be simplified to: It is known that A = 0.
+Rashida says Andree tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Amberly says Rashida lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Tamika says Amberly lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Leda says Tamika lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+169_th data:
+ The question can be simplified to: It is known that A = 0.
+Jaymie says Ryan lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Michael says Jaymie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Ka says Michael lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Millicent says Ka tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+170_th data:
+ The question can be simplified to: It is known that A = 0.
+Bernita says Alejandro lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Andree says Bernita tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Sima says Andree tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Inga says Sima tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+171_th data:
+ The question can be simplified to: It is known that A = 0.
+Crista says Shenna lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Andree says Crista tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Sherrie says Andree lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Ka says Sherrie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+172_th data:
+ The question can be simplified to: It is known that A = 0.
+Jerry says Antwan tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Delfina says Jerry lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Conception says Delfina lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Bernita says Conception tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+173_th data:
+ The question can be simplified to: It is known that A = 0.
+Jerry says Audrie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Alejandro says Jerry lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Jaymie says Alejandro lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Lorine says Jaymie tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+174_th data:
+ The question can be simplified to: It is known that A = 0.
+Fidel says Willian tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Crista says Fidel tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Inga says Crista tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Dallas says Inga lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+175_th data:
+ The question can be simplified to: It is known that A = 0.
+Gwenn says Sherrie lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Sima says Gwenn lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Tamika says Sima tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Millicent says Tamika tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+176_th data:
+ The question can be simplified to: It is known that A = 1.
+Fidel says Vernell tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Amberly says Fidel lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Lorine says Amberly lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Elanor says Lorine lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+177_th data:
+ The question can be simplified to: It is known that A = 0.
+Lorine says Millicent lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Rashida says Lorine lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Sima says Rashida lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Phoebe says Sima tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+178_th data:
+ The question can be simplified to: It is known that A = 1.
+Alejandro says Vina lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Maybelle says Alejandro tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Millicent says Maybelle lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Elanor says Millicent tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+179_th data:
+ The question can be simplified to: It is known that A = 1.
+Conception says Shaunda lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Shenna says Conception lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Delbert says Shenna lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Jerry says Delbert tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+180_th data:
+ The question can be simplified to: It is known that A = 1.
+Jaymie says Jerry tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Elanor says Jaymie tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Helene says Elanor tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Sherrie says Helene tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+181_th data:
+ The question can be simplified to: It is known that A = 1.
+Ka says Millicent tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Conception says Ka lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Sal says Conception lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Tamika says Sal lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+182_th data:
+ The question can be simplified to: It is known that A = 0.
+Fletcher says Shaunda lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Jaymie says Fletcher lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Millie says Jaymie lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Gwenn says Millie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+183_th data:
+ The question can be simplified to: It is known that A = 0.
+Amberly says Christie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Bernita says Amberly tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Kristian says Bernita lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Delfina says Kristian lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+184_th data:
+ The question can be simplified to: It is known that A = 0.
+Fidel says Leda lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Crista says Fidel tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Ka says Crista lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Jim says Ka tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+185_th data:
+ The question can be simplified to: It is known that A = 0.
+Millicent says Leda tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Rashida says Millicent lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Maybelle says Rashida tells the truth: truth -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shaunda says Maybelle lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: No
+************************
+************************
+186_th data:
+ The question can be simplified to: It is known that A = 0.
+Osvaldo says Rashida tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A, so B = 0.
+Sherrie says Osvaldo tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Gwenn says Sherrie tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Jerry says Gwenn lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+187_th data:
+ The question can be simplified to: It is known that A = 1.
+Audrie says Bernita lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Millie says Audrie tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Kandi says Millie lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Fletcher says Kandi tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+188_th data:
+ The question can be simplified to: It is known that A = 1.
+Jim says Rashida lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Tamika says Jim tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Lorine says Tamika tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Vina says Lorine tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+189_th data:
+ The question can be simplified to: It is known that A = 0.
+Shalonda says Delbert tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Tamika says Shalonda lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Sal says Tamika lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Helene says Sal lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+190_th data:
+ The question can be simplified to: It is known that A = 0.
+Lorine says Phoebe tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Dallas says Lorine lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Alexis says Dallas lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Jim says Alexis tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+191_th data:
+ The question can be simplified to: It is known that A = 0.
+Rashida says Audrie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Maybelle says Rashida lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Ka says Maybelle lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shaunda says Ka tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+192_th data:
+ The question can be simplified to: It is known that A = 0.
+Fletcher says Osvaldo tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Michael says Fletcher tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Dallas says Michael tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Teressa says Dallas tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+193_th data:
+ The question can be simplified to: It is known that A = 1.
+Raymond says Alexis tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Michaela says Raymond tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Shalonda says Michaela tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Amberly says Shalonda tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+193_th data:
+ The question can be simplified to: It is known that A = 1.
+Raymond says Alexis tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Michaela says Raymond tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Shalonda says Michaela tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Amberly says Shalonda tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+194_th data:
+ The question can be simplified to: It is known that A = 0.
+Fletcher says Raymond lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Amberly says Fletcher lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Shenna says Amberly tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Dallas says Shenna tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+195_th data:
+ The question can be simplified to: It is known that A = 1.
+Sal says Shalonda tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Helene says Sal tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Kandi says Helene lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Lorine says Kandi tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+196_th data:
+ The question can be simplified to: It is known that A = 1.
+Alejandro says Sal tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Raymond says Alejandro lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Conception says Raymond lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Elanor says Conception lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+197_th data:
+ The question can be simplified to: It is known that A = 1.
+Fidel says Shaunda tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Delbert says Fidel tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Bernita says Delbert tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Lorine says Bernita lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+198_th data:
+ The question can be simplified to: It is known that A = 0.
+Jerry says Fletcher lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Raymond says Jerry lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Conception says Raymond lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Amberly says Conception tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+199_th data:
+ The question can be simplified to: It is known that A = 0.
+Millie says Kristian lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Amberly says Millie lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Osvaldo says Amberly tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Kandi says Osvaldo tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+200_th data:
+ The question can be simplified to: It is known that A = 0.
+Raymond says Willian tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Rashida says Raymond lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Gwenn says Rashida lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Ka says Gwenn lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+201_th data:
+ The question can be simplified to: It is known that A = 1.
+Michael says Jamey lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Sherrie says Michael lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Bernita says Sherrie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Amberly says Bernita tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+202_th data:
+ The question can be simplified to: It is known that A = 1.
+Jim says Shaunda lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Alexis says Jim lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Phoebe says Alexis tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Sherrie says Phoebe tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+203_th data:
+ The question can be simplified to: It is known that A = 0.
+Ka says Millicent lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Sima says Ka tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Dallas says Sima tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Jamey says Dallas lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+204_th data:
+ The question can be simplified to: It is known that A = 1.
+Fidel says Christie lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Jerry says Fidel tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Maybelle says Jerry lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Delfina says Maybelle tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+205_th data:
+ The question can be simplified to: It is known that A = 0.
+Maybelle says Sima tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Audrie says Maybelle lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Leda says Audrie tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Shaunda says Leda lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+206_th data:
+ The question can be simplified to: It is known that A = 0.
+Conception says Vernell lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Kandi says Conception lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Michael says Kandi tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Osvaldo says Michael tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+207_th data:
+ The question can be simplified to: It is known that A = 1.
+Delbert says Shaunda tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Bernita says Delbert lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Yoland says Bernita tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Christie says Yoland tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+208_th data:
+ The question can be simplified to: It is known that A = 1.
+Shalonda says Inga tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Phoebe says Shalonda tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Crista says Phoebe lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Alejandro says Crista lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+209_th data:
+ The question can be simplified to: It is known that A = 0.
+Millicent says Fidel tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Crista says Millicent lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Leda says Crista lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Tamika says Leda tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+210_th data:
+ The question can be simplified to: It is known that A = 1.
+Christie says Andree tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Fidel says Christie lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Antwan says Fidel tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Alejandro says Antwan lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+211_th data:
+ The question can be simplified to: It is known that A = 1.
+Willian says Fletcher tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Jamey says Willian lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Leda says Jamey lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Jaymie says Leda tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+212_th data:
+ The question can be simplified to: It is known that A = 0.
+Jerry says Tamika tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Delbert says Jerry tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Leda says Delbert tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Willian says Leda lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+213_th data:
+ The question can be simplified to: It is known that A = 0.
+Sal says Teressa tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Delbert says Sal tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Tamika says Delbert tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Gwenn says Tamika tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+214_th data:
+ The question can be simplified to: It is known that A = 0.
+Delfina says Jim tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Shaunda says Delfina lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Fidel says Shaunda lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Sal says Fidel tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+215_th data:
+ The question can be simplified to: It is known that A = 0.
+Michael says Millie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Vina says Michael lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Conception says Vina tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Sima says Conception tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+216_th data:
+ The question can be simplified to: It is known that A = 0.
+Millie says Kandi tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Lorine says Millie tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Michaela says Lorine tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Amberly says Michaela lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+217_th data:
+ The question can be simplified to: It is known that A = 0.
+Jerry says Michael tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Delbert says Jerry tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sima says Delbert lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Alexis says Sima lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+218_th data:
+ The question can be simplified to: It is known that A = 0.
+Kristian says Sal lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Helene says Kristian lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Inga says Helene tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Michael says Inga tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+219_th data:
+ The question can be simplified to: It is known that A = 0.
+Crista says Maybelle tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Bernita says Crista lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Kandi says Bernita tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Delbert says Kandi tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+220_th data:
+ The question can be simplified to: It is known that A = 0.
+Rashida says Ka tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Sherrie says Rashida tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Tamika says Sherrie tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Elanor says Tamika tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+221_th data:
+ The question can be simplified to: It is known that A = 1.
+Audrie says Antwan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Inga says Audrie lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Shenna says Inga tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Christie says Shenna lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+222_th data:
+ The question can be simplified to: It is known that A = 0.
+Michael says Teressa tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Fidel says Michael tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Leda says Fidel lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Lorine says Leda lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+223_th data:
+ The question can be simplified to: It is known that A = 1.
+Elanor says Antwan tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Bernita says Elanor tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Osvaldo says Bernita lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Christie says Osvaldo tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+224_th data:
+ The question can be simplified to: It is known that A = 1.
+Elanor says Inga lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Millicent says Elanor tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Willian says Millicent tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Alejandro says Willian tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+225_th data:
+ The question can be simplified to: It is known that A = 0.
+Elanor says Sherrie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Michael says Elanor tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sima says Michael tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shaunda says Sima lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+226_th data:
+ The question can be simplified to: It is known that A = 0.
+Conception says Tamika tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Kristian says Conception lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Alejandro says Kristian tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Shaunda says Alejandro lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+227_th data:
+ The question can be simplified to: It is known that A = 0.
+Delfina says Helene lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Christie says Delfina tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Jerry says Christie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Tamika says Jerry tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+228_th data:
+ The question can be simplified to: It is known that A = 0.
+Shenna says Conception tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Maybelle says Shenna tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Michael says Maybelle lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Amberly says Michael lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+229_th data:
+ The question can be simplified to: It is known that A = 1.
+Jamey says Kristian tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Millicent says Jamey lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Fidel says Millicent lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Tamika says Fidel lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+230_th data:
+ The question can be simplified to: It is known that A = 0.
+Sal says Jamey tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Teressa says Sal lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Maybelle says Teressa tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Ka says Maybelle lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+231_th data:
+ The question can be simplified to: It is known that A = 0.
+Amberly says Lorine lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Fletcher says Amberly lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Millie says Fletcher tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Antwan says Millie lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+232_th data:
+ The question can be simplified to: It is known that A = 1.
+Elanor says Alexis tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Sherrie says Elanor lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Audrie says Sherrie tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Inga says Audrie tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+233_th data:
+ The question can be simplified to: It is known that A = 1.
+Teressa says Fidel tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Willian says Teressa tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Conception says Willian tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Bernita says Conception lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+234_th data:
+ The question can be simplified to: It is known that A = 1.
+Lorine says Jerry lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Shenna says Lorine lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Gwenn says Shenna lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Shaunda says Gwenn lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+235_th data:
+ The question can be simplified to: It is known that A = 0.
+Audrie says Inga lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Rashida says Audrie lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Willian says Rashida tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Amberly says Willian lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+236_th data:
+ The question can be simplified to: It is known that A = 1.
+Inga says Ka lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Bernita says Inga lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Osvaldo says Bernita tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Michaela says Osvaldo lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+237_th data:
+ The question can be simplified to: It is known that A = 0.
+Jamey says Jaymie tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Sal says Jamey lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Amberly says Sal lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Jerry says Amberly tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+238_th data:
+ The question can be simplified to: It is known that A = 0.
+Andree says Millie lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Michaela says Andree lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Leda says Michaela tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shenna says Leda lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+239_th data:
+ The question can be simplified to: It is known that A = 1.
+Maybelle says Shaunda tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Lorine says Maybelle lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Millie says Lorine tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Vina says Millie tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+240_th data:
+ The question can be simplified to: It is known that A = 0.
+Tamika says Fletcher tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Ka says Tamika lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Sima says Ka tells the truth: truth -> C' = 0. Since C = 1, C is not equal to C', so D = 1.
+Ryan says Sima tells the truth: truth -> D' = 0. Since D = 1, D is not equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+241_th data:
+ The question can be simplified to: It is known that A = 0.
+Andree says Shaunda tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Jaymie says Andree lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Inga says Jaymie lies: lies -> C' = 0. Since C = 1, C is not equal to C', so D = 0.
+Millicent says Inga tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+242_th data:
+ The question can be simplified to: It is known that A = 0.
+Fletcher says Rashida lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Antwan says Fletcher lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Willian says Antwan tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Vina says Willian tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+243_th data:
+ The question can be simplified to: It is known that A = 0.
+Kandi says Jerry lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Fletcher says Kandi lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Ryan says Fletcher lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Delfina says Ryan lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+244_th data:
+ The question can be simplified to: It is known that A = 1.
+Phoebe says Shaunda tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Ryan says Phoebe tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Christie says Ryan tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Vina says Christie tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+245_th data:
+ The question can be simplified to: It is known that A = 1.
+Amberly says Alexis tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Andree says Amberly tells the truth: truth -> B' = 1. Since B = 1, B is equal to B', so C = 1.
+Vina says Andree tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Helene says Vina tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+246_th data:
+ The question can be simplified to: It is known that A = 0.
+Maybelle says Gwenn tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Raymond says Maybelle tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Jamey says Raymond tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Andree says Jamey lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+247_th data:
+ The question can be simplified to: It is known that A = 1.
+Ryan says Kandi lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Michaela says Ryan tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Sima says Michaela lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Andree says Sima tells the truth: truth -> D' = 1. Since D = 1, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+ground truth: Yes
+************************
+************************
+248_th data:
+ The question can be simplified to: It is known that A = 1.
+Alexis says Fletcher lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Jerry says Alexis lies: lies -> B' = 0. Since B = 0, B is equal to B', so C = 1.
+Elanor says Jerry tells the truth: truth -> C' = 1. Since C = 1, C is equal to C', so D = 1.
+Jim says Elanor lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************
+************************
+249_th data:
+ The question can be simplified to: It is known that A = 1.
+Ryan says Sherrie lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Bernita says Ryan tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Tamika says Bernita lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Jerry says Tamika lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+ground truth: No
+************************

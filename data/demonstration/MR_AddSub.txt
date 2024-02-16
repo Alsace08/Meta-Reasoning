@@ -1,0 +1,25 @@
+Q: A carpenter bought a piece of wood that was 0.41 meters long . Then she sawed 0.33 meters off the end . How long is the piece of wood now ?
+A: The question can be simplified to: It is known that A = 0.41, B = 0.33. Subtract B from A, now what is the value of A?
+A = A - B = 0.41 - 0.33 = 0.08
+So the answer is: 0.08
+
+Q: Melanie picked 4 plums , Dan picked 9 plums , and Sally picked 3 plums from the plum tree . How many plums were picked in total ?\nA: The question can be simplified to: It is known that A = 4, B = 9, C = 3. Add B to A, and then add C to A, now what is the value of A?
+A = A + B + C = 4 + 9 + 3 = 13 + 3 = 16
+So the answer is: 16
+
+Q: Alyssa picked 25 limes and Mike picked 32 limes . Tom picked 12 plums . How many limes were picked in all ?
+A: The question can be simplified to: It is known that A = 25, B = 32, C = 12, but C is a useless constant. Add B to A. now what is the value of A?
+A = A + B = 25 + 32 = 67
+So the answer is: 67
+
+Q: There are 47 orchid bushes currently in the park . Park workers will plant 37 orchid bushes today and 25 orchid bushes tomorrow . It took 35 workers to finish the work . How many orchid bushes will the park have when the workers are finished ?
+A: The question can be simplified to: It is known that A = 47, B = 37, C = 25, D = 35, but D is a useless constant. Add B to A, and then add C to A, now what is the value of A?
+A = A + B + C = 47 + 37 + 25 = 84 + 25 = 109
+So the answer is: 109
+
+Q: Alyssa went to 11 soccer games this year , but missed 12 . She went to 13 games last year and plans to go to 15 games next year . How many soccer games will Alyssa go to in all ?
+A: The question can be simplified to: It is known that A = 11, B = 12, C = 13, D = 15, but B is a useless constant. Add C to A, and then add D to A, now what is the value of A?
+A = A + C + D = 11 + 13 + 15 = 24 + 15 = 39
+So the answer is: 39
+
+### 586 tokens

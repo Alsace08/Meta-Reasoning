@@ -1,0 +1,10 @@
+Q: Take the last letters of each words in "Lesley Luna Nadia Adriana" and concatenate them.
+A: Let¡¯s think step by step. The last letter of "Lesley" is "y". The last letter of "Luna" is "a". The last letter of "Nadia" is "a". The last letter of "Adriana" is "a". So the final answer is "yaaa". The answer is yaaa.
+Q: Take the last letters of each words in "Alfonso Collin Amado Dick" and concatenate them.
+A: Let¡¯s think step by step. The last letter of "Alfonso" is "o". The last letter of "Collin" is "n". The last letter of "Amado" is "o". The last letter of "Dick" is "k". So the final answer would be "onok". The answer is onok.
+Q: Take the last letters of each words in "Cristina Saad Bridget Katie" and concatenate them.
+A: Let¡¯s think step by step. The last letter of "Cristina" is "a". The last letter of "Saad" is "d". The last letter of "Bridget" is "t". The last letter of "Katie" is "e". So the final answer would be "adte". The answer is adte.
+Q: Take the last letters of each words in "Idalia Arnoldo Marla Duane" and concatenate them.
+A: Let¡¯s think step by step. The last letter of "Idalia" is "a". The last letter of "Arnoldo" is "o". The last letter of "Marla" is "a". The last letter of "Duane" is "e". So the final answer would be "aoae". The answer is aoae.
+
+# 416 tokens

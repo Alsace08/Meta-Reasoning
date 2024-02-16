@@ -1,0 +1,584 @@
+id: 1
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Avery, Charlotte, Isabella, Elizabeth and Owen entered the living_room.
+2 The lettuce is in the green_drawer.
+3 Avery moved the lettuce to the green_bathtub.
+4 Elizabeth dislikes the tangerine.
+5 Avery exited the living_room.
+6 Charlotte moved the lettuce to the blue_pantry.
+7 Owen likes the green_envelope.
+8 Charlotte exited the living_room.
+9 Isabella made no movements and stayed in the living_room for 1 minute.
+10 Isabella exited the living_room.
+11 Owen dislikes the green_pepper.
+12 Elizabeth made no movements and stayed in the living_room for 1 minute.
+13 Elizabeth exited the living_room.
+14 Owen moved the lettuce to the green_drawer.
+15 Owen exited the living_room.
+16 Avery, Charlotte, Isabella, Elizabeth and Owen entered the waiting_room.
+
+Q0: Where is the lettuce really?
+Q1: Where does Avery really think the lettuce is?
+Q2: Where does Charlotte think Avery thinks the lettuce is?
+Q3: Where does Owen think Charlotte thinks Avery thinks the lettuce is?
+Q4: Where does Isabella think Owen thinks Charlotte thinks Avery thinks the lettuce is?
+
+A: green_drawer, green_bathtub, green_bathtub, green_bathtub, green_bathtub
+
+---
+
+id: 2
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Isabella, Carter, Elizabeth, Hannah and Jacob entered the bedroom.
+2 The tomato is in the green_bottle.
+3 Isabella moved the tomato to the green_box.
+4 Isabella exited the bedroom.
+5 Carter made no movements and stayed in the bedroom for 1 minute.
+6 Carter exited the bedroom.
+7 Elizabeth moved the tomato to the blue_container.
+8 Elizabeth exited the bedroom.
+9 Hannah made no movements and stayed in the bedroom for 1 minute.
+10 Jacob lost his watch.
+11 Hannah exited the bedroom.
+12 Jacob made no movements and stayed in the bedroom for 1 minute.
+13 Jacob exited the bedroom.
+14 Isabella, Carter, Elizabeth, Hannah and Jacob entered the waiting_room.
+
+Q0: Where is the tomato really?
+Q1: Where does Jacob really think the tomato is?
+Q2: Where does Hannah think Jacob thinks the tomato is?
+Q3: Where does Isabella think Hannah thinks Jacob thinks the tomato is?
+Q4: Where does Elizabeth think Isabella thinks Hannah thinks Jacob thinks the tomato is?
+
+A: blue_container, blue_container, blue_container, green_box, green_box
+
+---
+
+id: 3
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Liam, Jack, Hannah, Owen and Noah entered the pantry.
+2 The eggplant is in the green_envelope.
+3 Liam made no movements and stayed in the pantry for 1 minute.
+4 Liam exited the pantry.
+5 Noah lost his gloves.
+6 Jack moved the eggplant to the green_bathtub.
+7 Jack exited the pantry.
+8 Hannah moved the eggplant to the blue_cupboard.
+9 Hannah exited the pantry.
+10 Owen moved the eggplant to the green_basket.
+11 Owen exited the pantry.
+12 Noah moved the eggplant to the green_envelope.
+13 Noah exited the pantry.
+14 Liam, Jack, Hannah, Owen and Noah entered the waiting_room.
+
+Q0: Where is the eggplant really?
+Q1: Where does Noah really think the eggplant is?
+Q2: Where does Hannah think Noah thinks the eggplant is?
+Q3: Where does Jack think Hannah thinks Noah thinks the eggplant is?
+Q4: Where does Owen think Jack thinks Hannah thinks Noah thinks the eggplant is?
+
+A: green_envelope, green_envelope, blue_cupboard, green_bathtub, green_bathtub
+
+---
+
+id: 4
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Evelyn saw a dog.
+2 Noah, Emily, Avery, Evelyn and Mila entered the front_yard.
+3 The spinach is in the green_bucket.
+4 Noah made no movements and stayed in the front_yard for 1 minute.
+5 Noah exited the front_yard.
+6 Emily made no movements and stayed in the front_yard for 1 minute.
+7 Emily exited the front_yard.
+8 Avery made no movements and stayed in the front_yard for 1 minute.
+9 Avery exited the front_yard.
+10 Evelyn made no movements and stayed in the front_yard for 1 minute.
+11 Evelyn exited the front_yard.
+12 Avery saw a cat.
+13 Mila moved the spinach to the green_bucket.
+14 Mila exited the front_yard.
+15 Noah, Emily, Avery, Evelyn and Mila entered the waiting_room.
+
+Q0: Where is the spinach really?
+Q1: Where does Noah really think the spinach is?
+Q2: Where does Mila think Noah thinks the spinach is?
+Q3: Where does Emily think Mila thinks Noah thinks the spinach is?
+Q4: Where does Evelyn think Emily thinks Mila thinks Noah thinks the spinach is?
+
+A: green_bucket, green_bucket, green_bucket, green_bucket, green_bucket
+
+---
+
+id: 5
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Logan, Charlotte, Hannah, Benjamin and Evelyn entered the patio.
+2 The potato is in the green_envelope.
+3 Charlotte likes the red_bottle.
+4 Logan made no movements and stayed in the patio for 1 minute.
+5 Logan exited the patio.
+6 Charlotte moved the potato to the red_bottle.
+7 Charlotte exited the patio.
+8 Hannah made no movements and stayed in the patio for 1 minute.
+9 Hannah exited the patio.
+10 Benjamin made no movements and stayed in the patio for 1 minute.
+11 Benjamin exited the patio.
+12 Evelyn made no movements and stayed in the patio for 1 minute.
+13 Evelyn exited the patio.
+14 Logan, Charlotte, Hannah, Benjamin and Evelyn entered the waiting_room.
+
+Q0: Where is the potato really?
+Q1: Where does Logan really think the potato is?
+Q2: Where does Benjamin think Logan thinks the potato is?
+Q3: Where does Charlotte think Benjamin thinks Logan thinks the potato is?
+Q4: Where does Hannah think Charlotte thinks Benjamin thinks Logan thinks the potato is?
+
+A: red_bottle, green_envelope, green_envelope, green_envelope, green_envelope
+
+---
+
+id: 6
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Hannah, Jack, Lily, Logan and Aiden entered the closet.
+2 The apple is in the green_bathtub.
+3 Hannah moved the apple to the blue_cupboard.
+4 Hannah exited the closet.
+5 Jack moved the apple to the green_drawer.
+6 Jack exited the closet.
+7 Lily moved the apple to the red_box.
+8 Hannah likes the blue_drawer.
+9 Lily exited the closet.
+10 Logan made no movements and stayed in the closet for 1 minute.
+11 Logan exited the closet.
+12 Logan likes the green_pantry.
+13 Aiden made no movements and stayed in the closet for 1 minute.
+14 Aiden exited the closet.
+15 Hannah, Jack, Lily, Logan and Aiden entered the waiting_room.
+
+Q0: Where is the apple really?
+Q1: Where does Lily really think the apple is?
+Q2: Where does Hannah think Lily thinks the apple is?
+Q3: Where does Jack think Hannah thinks Lily thinks the apple is?
+Q4: Where does Aiden think Jack thinks Hannah thinks Lily thinks the apple is?
+
+A: red_box, red_box, blue_cupboard, blue_cupboard, blue_cupboard
+
+---
+
+id: 7
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Ella, Aiden, Jack, Benjamin and Emma entered the attic.
+2 The spinach is in the red_bottle.
+3 Ella moved the spinach to the green_basket.
+4 Ella exited the attic.
+5 Aiden made no movements and stayed in the attic for 1 minute.
+6 Aiden exited the attic.
+7 Jack made no movements and stayed in the attic for 1 minute.
+8 Jack exited the attic.
+9 Benjamin moved the spinach to the green_envelope.
+10 Aiden dislikes the turnip.
+11 Benjamin exited the attic.
+12 Emma made no movements and stayed in the attic for 1 minute.
+13 Emma exited the attic.
+14 Ella, Aiden, Jack, Benjamin and Emma entered the waiting_room.
+
+Q0: Where is the spinach really?
+Q1: Where does Emma really think the spinach is?
+Q2: Where does Ella think Emma thinks the spinach is?
+Q3: Where does Aiden think Ella thinks Emma thinks the spinach is?
+Q4: Where does Benjamin think Aiden thinks Ella thinks Emma thinks the spinach is?
+
+A: green_envelope, green_envelope, green_basket, green_basket, green_basket
+
+---
+
+id: 8
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Owen, Ella, Chloe, Sophia and Noah entered the crawlspace.
+2 The corn is in the green_crate.
+3 Owen made no movements and stayed in the crawlspace for 1 minute.
+4 Owen exited the crawlspace.
+5 Ella made no movements and stayed in the crawlspace for 1 minute.
+6 Ella exited the crawlspace.
+7 Chloe made no movements and stayed in the crawlspace for 1 minute.
+8 Ella dislikes the corn.
+9 Chloe exited the crawlspace.
+10 Sophia moved the corn to the blue_suitcase.
+11 Sophia exited the crawlspace.
+12 Noah made no movements and stayed in the crawlspace for 1 minute.
+13 Noah exited the crawlspace.
+14 Owen, Ella, Chloe, Sophia and Noah entered the waiting_room.
+
+Q0: Where is the corn really?
+Q1: Where does Sophia really think the corn is?
+Q2: Where does Chloe think Sophia thinks the corn is?
+Q3: Where does Ella think Chloe thinks Sophia thinks the corn is?
+Q4: Where does Owen think Ella thinks Chloe thinks Sophia thinks the corn is?
+
+A: blue_suitcase, blue_suitcase, green_crate, green_crate, green_crate
+
+---
+
+id: 9
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Elizabeth, Ava, Abigail, Ella and Owen entered the bedroom.
+2 The banana is in the green_envelope.
+3 Elizabeth made no movements and stayed in the bedroom for 1 minute.
+4 Elizabeth exited the bedroom.
+5 Owen saw a cat.
+6 Ava made no movements and stayed in the bedroom for 1 minute.
+7 Ava exited the bedroom.
+8 Abigail moved the banana to the blue_bottle.
+9 Abigail exited the bedroom.
+10 Abigail likes the red_pantry.
+11 Ella made no movements and stayed in the bedroom for 1 minute.
+12 Ella exited the bedroom.
+13 Owen moved the banana to the green_envelope.
+14 Owen exited the bedroom.
+15 Elizabeth, Ava, Abigail, Ella and Owen entered the waiting_room.
+
+Q0: Where is the banana really?
+Q1: Where does Abigail really think the banana is?
+Q2: Where does Ella think Abigail thinks the banana is?
+Q3: Where does Elizabeth think Ella thinks Abigail thinks the banana is?
+Q4: Where does Owen think Elizabeth thinks Ella thinks Abigail thinks the banana is?
+
+A: green_envelope, blue_bottle, blue_bottle, green_envelope, green_envelope
+
+---
+
+id: 10
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Emily dislikes the plum.
+2 Nathan, Evelyn, William, Emily and Jacob entered the pantry.
+3 The plum is in the red_pantry.
+4 Nathan made no movements and stayed in the pantry for 1 minute.
+5 Evelyn saw a monkey.
+6 Nathan exited the pantry.
+7 Evelyn moved the plum to the green_bucket.
+8 Evelyn exited the pantry.
+9 William made no movements and stayed in the pantry for 1 minute.
+10 William exited the pantry.
+11 Emily made no movements and stayed in the pantry for 1 minute.
+12 Nathan saw a mouse.
+13 Emily exited the pantry.
+14 Jacob moved the plum to the red_pantry.
+15 Jacob exited the pantry.
+16 Nathan, Evelyn, William, Emily and Jacob entered the waiting_room.
+
+Q0: Where is the plum really?
+Q1: Where does William really think the plum is?
+Q2: Where does Nathan think William thinks the plum is?
+Q3: Where does Evelyn think Nathan thinks William thinks the plum is?
+Q4: Where does Jacob think Evelyn thinks Nathan thinks William thinks the plum is?
+
+A: red_pantry, green_bucket, red_pantry, red_pantry, red_pantry
+
+---
+
+id: 11
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Chloe, Benjamin, Alexander, Ella and Elizabeth entered the study.
+2 The orange is in the red_box.
+3 Chloe made no movements and stayed in the study for 1 minute.
+4 Alexander lost his phone.
+5 Chloe exited the study.
+6 Benjamin moved the orange to the red_envelope.
+7 Benjamin exited the study.
+8 Alexander made no movements and stayed in the study for 1 minute.
+9 Alexander exited the study.
+10 Ella made no movements and stayed in the study for 1 minute.
+11 Benjamin saw a cat.
+12 Ella exited the study.
+13 Elizabeth moved the orange to the red_box.
+14 Elizabeth exited the study.
+15 Chloe, Benjamin, Alexander, Ella and Elizabeth entered the waiting_room.
+
+Q0: Where is the orange really?
+Q1: Where does Ella really think the orange is?
+Q2: Where does Elizabeth think Ella thinks the orange is?
+Q3: Where does Chloe think Elizabeth thinks Ella thinks the orange is?
+Q4: Where does Alexander think Chloe thinks Elizabeth thinks Ella thinks the orange is?
+
+A: red_box, red_envelope, red_envelope, red_box, red_box
+
+---
+
+id: 12
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Mila, Ava, Liam, Ella and William entered the garden.
+2 The melon is in the green_box.
+3 Mila made no movements and stayed in the garden for 1 minute.
+4 Mila exited the garden.
+5 Ava moved the melon to the green_basket.
+6 Ava exited the garden.
+7 Liam made no movements and stayed in the garden for 1 minute.
+8 Liam exited the garden.
+9 Ella moved the melon to the red_bottle.
+10 Liam saw a mouse.
+11 Ella exited the garden.
+12 William made no movements and stayed in the garden for 1 minute.
+13 William exited the garden.
+14 Mila, Ava, Liam, Ella and William entered the waiting_room.
+
+Q0: Where is the melon really?
+Q1: Where does William really think the melon is?
+Q2: Where does Mila think William thinks the melon is?
+Q3: Where does Ella think Mila thinks William thinks the melon is?
+Q4: Where does Ava think Ella thinks Mila thinks William thinks the melon is?
+
+A: red_bottle, red_bottle, green_box, green_box, green_box
+
+---
+
+id: 13
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Amelia, Abigail, Charlotte, Carter and Nathan entered the laundry.
+2 The cabbage is in the red_container.
+3 Amelia moved the cabbage to the green_envelope.
+4 Amelia exited the laundry.
+5 Abigail moved the cabbage to the green_crate.
+6 Abigail exited the laundry.
+7 Charlotte moved the cabbage to the blue_crate.
+8 Charlotte exited the laundry.
+9 Carter made no movements and stayed in the laundry for 1 minute.
+10 Carter exited the laundry.
+11 Nathan made no movements and stayed in the laundry for 1 minute.
+12 Nathan exited the laundry.
+13 Amelia, Abigail, Charlotte, Carter and Nathan entered the waiting_room.
+
+Q0: Where is the cabbage really?
+Q1: Where does Abigail really think the cabbage is?
+Q2: Where does Nathan think Abigail thinks the cabbage is?
+Q3: Where does Amelia think Nathan thinks Abigail thinks the cabbage is?
+Q4: Where does Charlotte think Amelia thinks Nathan thinks Abigail thinks the cabbage is?
+
+A: blue_crate, green_crate, green_crate, green_envelope, green_envelope
+
+---
+
+id: 14
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Emily, Jack, Avery, Aiden and Abigail entered the playroom.
+2 The lime is in the green_envelope.
+3 Emily moved the lime to the blue_pantry.
+4 Emily exited the playroom.
+5 Jack moved the lime to the blue_suitcase.
+6 Jack exited the playroom.
+7 Avery made no movements and stayed in the playroom for 1 minute.
+8 Avery exited the playroom.
+9 Emily likes the green_crate.
+10 Aiden made no movements and stayed in the playroom for 1 minute.
+11 Aiden exited the playroom.
+12 Avery likes the red_basket.
+13 Abigail moved the lime to the green_envelope.
+14 Abigail exited the playroom.
+15 Emily, Jack, Avery, Aiden and Abigail entered the waiting_room.
+
+Q0: Where is the lime really?
+Q1: Where does Abigail really think the lime is?
+Q2: Where does Avery think Abigail thinks the lime is?
+Q3: Where does Jack think Avery thinks Abigail thinks the lime is?
+Q4: Where does Aiden think Jack thinks Avery thinks Abigail thinks the lime is?
+
+A: green_envelope, green_envelope, blue_suitcase, blue_suitcase, blue_suitcase
+
+---
+
+id: 15
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Avery, Owen, Ella, Ava and Amelia entered the back_yard.
+2 The watermelon is in the blue_container.
+3 Avery made no movements and stayed in the back_yard for 1 minute.
+4 Avery exited the back_yard.
+5 Owen made no movements and stayed in the back_yard for 1 minute.
+6 Owen exited the back_yard.
+7 Ella moved the watermelon to the red_pantry.
+8 Ella exited the back_yard.
+9 Ava made no movements and stayed in the back_yard for 1 minute.
+10 Ava exited the back_yard.
+11 Amelia moved the watermelon to the blue_container.
+12 Amelia exited the back_yard.
+13 Avery, Owen, Ella, Ava and Amelia entered the waiting_room.
+
+Q0: Where is the watermelon really?
+Q1: Where does Avery really think the watermelon is?
+Q2: Where does Owen think Avery thinks the watermelon is?
+Q3: Where does Ella think Owen thinks Avery thinks the watermelon is?
+Q4: Where does Amelia think Ella thinks Owen thinks Avery thinks the watermelon is?
+
+A: blue_container, blue_container, blue_container, blue_container, blue_container
+
+---
+
+id: 16
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Isabella, Evelyn, William, Alexander and Logan entered the cellar.
+2 The carrot is in the red_container.
+3 Isabella moved the carrot to the blue_container.
+4 Logan likes the green_drawer.
+5 Isabella exited the cellar.
+6 Evelyn made no movements and stayed in the cellar for 1 minute.
+7 Logan likes the green_bucket.
+8 Evelyn exited the cellar.
+9 William made no movements and stayed in the cellar for 1 minute.
+10 William exited the cellar.
+11 Alexander moved the carrot to the green_bathtub.
+12 Alexander exited the cellar.
+13 Logan moved the carrot to the red_container.
+14 Logan exited the cellar.
+15 Isabella, Evelyn, William, Alexander and Logan entered the waiting_room.
+
+Q0: Where is the carrot really?
+Q1: Where does William really think the carrot is?
+Q2: Where does Evelyn think William thinks the carrot is?
+Q3: Where does Logan think Evelyn thinks William thinks the carrot is?
+Q4: Where does Alexander think Logan thinks Evelyn thinks William thinks the carrot is?
+
+A: red_container, blue_container, blue_container, blue_container, blue_container
+
+---
+
+id: 17
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Mila, Liam, Emma, Alexander and Avery entered the patio.
+2 The lettuce is in the blue_crate.
+3 Mila made no movements and stayed in the patio for 1 minute.
+4 Mila exited the patio.
+5 Liam made no movements and stayed in the patio for 1 minute.
+6 Liam exited the patio.
+7 Emma made no movements and stayed in the patio for 1 minute.
+8 Emma exited the patio.
+9 Mila lost his phone.
+10 Alexander moved the lettuce to the blue_container.
+11 Alexander exited the patio.
+12 Avery made no movements and stayed in the patio for 1 minute.
+13 Avery saw a mouse.
+14 Avery exited the patio.
+15 Mila, Liam, Emma, Alexander and Avery entered the waiting_room.
+
+Q0: Where is the lettuce really?
+Q1: Where does Liam really think the lettuce is?
+Q2: Where does Emma think Liam thinks the lettuce is?
+Q3: Where does Mila think Emma thinks Liam thinks the lettuce is?
+Q4: Where does Avery think Mila thinks Emma thinks Liam thinks the lettuce is?
+
+A: blue_container, blue_crate, blue_crate, blue_crate, blue_crate
+
+---
+
+id: 18
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Jackson, Charlotte, Avery, Liam and Benjamin entered the cellar.
+2 The corn is in the blue_treasure_chest.
+3 Jackson made no movements and stayed in the cellar for 1 minute.
+4 Jackson exited the cellar.
+5 Charlotte moved the corn to the green_crate.
+6 Charlotte exited the cellar.
+7 Avery likes the blue_bathtub.
+8 Avery made no movements and stayed in the cellar for 1 minute.
+9 Avery exited the cellar.
+10 Liam made no movements and stayed in the cellar for 1 minute.
+11 Liam exited the cellar.
+12 Benjamin made no movements and stayed in the cellar for 1 minute.
+13 Benjamin exited the cellar.
+14 Jackson, Charlotte, Avery, Liam and Benjamin entered the waiting_room.
+
+Q0: Where is the corn really?
+Q1: Where does Benjamin really think the corn is?
+Q2: Where does Jackson think Benjamin thinks the corn is?
+Q3: Where does Liam think Jackson thinks Benjamin thinks the corn is?
+Q4: Where does Charlotte think Liam thinks Jackson thinks Benjamin thinks the corn is?
+
+A: green_crate, green_crate, blue_treasure_chest, blue_treasure_chest, blue_treasure_chest
+
+---
+
+id: 19
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Emily, Abigail, Amelia, Elizabeth and Hannah entered the staircase.
+2 The asparagus is in the green_bottle.
+3 Emily made no movements and stayed in the staircase for 1 minute.
+4 Emily exited the staircase.
+5 Abigail made no movements and stayed in the staircase for 1 minute.
+6 Abigail exited the staircase.
+7 Amelia made no movements and stayed in the staircase for 1 minute.
+8 Amelia exited the staircase.
+9 Elizabeth made no movements and stayed in the staircase for 1 minute.
+10 Elizabeth exited the staircase.
+11 Hannah made no movements and stayed in the staircase for 1 minute.
+12 Hannah exited the staircase.
+13 Emily, Abigail, Amelia, Elizabeth and Hannah entered the waiting_room.
+
+Q0: Where is the asparagus really?
+Q1: Where does Emily really think the asparagus is?
+Q2: Where does Hannah think Emily thinks the asparagus is?
+Q3: Where does Amelia think Hannah thinks Emily thinks the asparagus is?
+Q4: Where does Abigail think Amelia thinks Hannah thinks Emily thinks the asparagus is?
+
+A: green_bottle, green_bottle, green_bottle, green_bottle, green_bottle
+
+---
+
+id: 20
+
+Read the following story and answer the multiple-choice question. Think step-by-step.
+Story:
+1 Mila, Ava, Emily, Evelyn and Jacob entered the front_yard.
+2 The watermelon is in the blue_cupboard.
+3 Mila moved the watermelon to the red_box.
+4 Mila exited the front_yard.
+5 Ava moved the watermelon to the green_bottle.
+6 Ava exited the front_yard.
+7 Emily moved the watermelon to the blue_bathtub.
+8 Emily exited the front_yard.
+9 Evelyn made no movements and stayed in the front_yard for 1 minute.
+10 Evelyn exited the front_yard.
+11 Jacob made no movements and stayed in the front_yard for 1 minute.
+12 Jacob exited the front_yard.
+13 Mila, Ava, Emily, Evelyn and Jacob entered the waiting_room.
+
+Q0: Where is the watermelon really?
+Q1: Where does Ava really think the watermelon is?
+Q2: Where does Jacob think Ava thinks the watermelon is?
+Q3: Where does Emily think Jacob thinks Ava thinks the watermelon is?
+Q4: Where does Evelyn think Emily thinks Jacob thinks Ava thinks the watermelon is?
+
+A: blue_bathtub, green_bottle, green_bottle, green_bottle, green_bottle

@@ -1,0 +1,20 @@
+Q: Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Karl, Claire is dancing with Izzi, Dave is dancing with Jamie, Eve is dancing with Helga, Fred is dancing with Rodrigo, and Gertrude is dancing with Ophelia.
+Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Alice and Fred switch partners. Then, Gertrude and Dave switch partners. Then, Eve and Bob switch partners. Then, Eve and Fred switch partners. Then, Bob and Claire switch partners. Finally, Fred and Gertrude switch partners. At the end of the dance, Dave is dancing with
+Options:
+(A) Sam
+(B) Karl
+(C) Izzi
+(D) Jamie
+(E) Helga
+(F) Rodrigo
+(G) Ophelia
+A: The question can be simplified to: It is known that A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7.
+First, C and E switch partners: C and E -> (C = 3, E = 5 -> C = 5, E = 3) -> A = 1, B = 2, C = 5, D = 4, E = 3, F = 6, G = 7.
+Then, A and F switch partners: A and F -> (A = 1, F = 6 -> A = 6, F = 1) -> A = 6, B = 2, C = 5, D = 4, E = 3, F = 1, G = 7.
+Then, G and D switch partners: G and D -> (G = 7, D = 4 -> G = 4, D = 7) -> A = 6, B = 2, C = 5, D = 7, E = 3, F = 1, G = 4.
+Then, E and B switch partners: E and B -> (E = 3, B = 2 -> E = 2, B = 3) -> A = 6, B = 3, C = 5, D = 7, E = 2, F = 1, G = 4.
+Then, E and F switch partners: E and F -> (E = 2, F = 1 -> E = 1, F = 2) -> A = 6, B = 3, C = 5, D = 7, E = 1, F = 2, G = 4.
+Then, B and C switch partners: B and C -> (B = 3, C = 5 -> B = 5, C = 3) -> A = 6, B = 5, C = 3, D = 7, E = 1, F = 2, G = 4.
+Finally, F and G switch partners: F and G -> (F = 2, G = 4 -> F = 4, G = 2) -> A = 6, B = 5, C = 3, D = 7, E = 1, F = 4, G = 2.
+At the end of the dance, Dave is dancing with: Dave -> D = 7.
+1 -> (A), 2 -> (B), 3 -> (C), 4 -> (D), 5 -> (E), 6 -> (F), 7 -> (G). For D = 7, 7 -> (G), so the answer is (G).

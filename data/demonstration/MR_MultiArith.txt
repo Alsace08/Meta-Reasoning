@@ -1,0 +1,30 @@
+Q: For Halloween Debby and her sister combined the candy they received. Debby had 32 pieces of candy while her sister had 42. If they ate 35 pieces the first night, how many pieces do they have left?
+A: The question can be simplified to: It is known that A = 32, B = 42, C = 35. Add B to A, and then subtract C from A, now what is the value of B?
+A = ( A + B ) - C = ( 32 + 42 ) - 35 = 74 - 35 = 39
+So the answer is: 39
+
+Q: A florist had 37 roses. If she sold 16 of them and then later picked 19 more, how many roses would she have?
+A: The question can be simplified to: It is known that A = 37, B = 16, C = 19. Subtract B from A, then add C to A, now what is the value of A?\nA = ( A - B ) + C = ( 37 - 16 ) + 19 = 21 + 19 = 40
+So the answer is: 40
+
+Q: At a company picnic 9 managers and 15 employees decided to start a game of volleyball. If they split into 8 teams how many people would be on each team?
+A: The question can be simplified to: It is known that A = 9, B = 15, C = 8. Add B to A, and then divide A by C, now what is the value of A?
+A = ( A + B ) / C = ( 9 + 15 ) / 8 = 24 / 8 = 3
+So the answer is: 3
+
+Q: A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?
+A: The question can be simplified to: It is known that A = 14, B = 5, C = 4. Subtract B from A, and then multiply A by C, now what is the value of A?
+A = ( A - B ) * C = ( 14 - 5 ) * 4 = 9 * 4 = 36
+So the answer is: 36
+
+Q: A magician was selling magic card decks for 9 dollars each. If he started with 12 decks and by the end of the day he had 7 left, how much money did he earn?
+A: The question can be simplified to: It is known that A = 9, B = 12, C = 7. Subtract C from B, and then multiply A by B, now what is the value of A?
+A = ( B - C ) * A = ( 12 - 7 ) * 9 = 5 * 9 = 45
+So the answer is: 45
+
+Q: A pet store has 6 bird cages. If each cage has 2 parrots and 7 parakeets in it, how many birds does the pet store have total?
+A: The question can be simplified to: It is known that A = 6, B = 2, C = 7. Add B to C, and then multiply A by C, now what is the value of A?
+A = ( B + C ) * A = ( 2 + 7 ) * 6 = 9 * 6 = 54
+So the answer is: 54
+
+# 700 tokens

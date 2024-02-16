@@ -1,0 +1,41 @@
+"Q: Sherrie tells the truth. Vernell says Sherrie tells the truth. Alexis says Vernell lies. Michaela says Alexis tells the truth. Elanor says Michaela tells the truth. Does Elanor tell the truth?
+A: The question can be simplified to: It is known that A = 1.
+Vernell says Sherrie tells the truth: truth -> A' = 1. Since A = 1, A is equal to A', so B = 1.
+Alexis says Vernell lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Michaela says Alexis tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Elanor says Michaela tells the truth: truth -> D' = 1, since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+
+Q: Jerry lies. Millicent says Jerry tells the truth. Sal says Millicent tells the truth. Amberly says Sal tells the truth. Shenna says Amberly lies. Does Shenna tell the truth?
+A: The question can be simplified to: It is known that A = 0.
+Millicent says Jerry tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A', so B = 0.
+Sal says Millicent tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Amberly says Sal tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shenna says Amberly lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+
+Q: Kristian lies. Sherrie says Kristian lies. Delbert says Sherrie lies. Jerry says Delbert tells the truth. Shalonda says Jerry tells the truth. Does Shalonda tell the truth?
+A: The question can be simplified to: It is known that A = 0.
+Sherrie says Kristian lies: lies -> A' = 0. Since A = 0, A is equal to A', so B = 1.
+Delbert says Sherrie lies: lies -> B' = 0. Since B = 1, B is not equal to B', so C = 0.
+Jerry says Delbert tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Shalonda says Jerry tells the truth: truth -> D' = 1. Since D = 0, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no."
+
+Q: Vina tells the truth. Helene says Vina lies. Kandi says Helene tells the truth. Jamey says Kandi lies. Ka says Jamey lies. Does Ka tell the truth?
+A: The question can be simplified to: It is known that A = 1.
+Helene says Vina lies: lies -> A' = 0. Since A = 1, A is not equal to A', so B = 0.
+Kandi says Helene tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Jamey says Kandi lies: lies -> C' = 0. Since C = 0, C is equal to C', so D = 1.
+Ka says Jamey lies: lies -> D' = 0. Since D = 1, D is not equal to D', so E = 0.
+Since E = 0, so the answer is: no.
+
+Q: Rashida lies. Osvaldo says Rashida tells the truth. Sherrie says Osvaldo tells the truth. Gwenn says Sherrie tells the truth. Jerry says Gwenn lies. Does Jerry tell the truth?
+A: The question can be simplified to: It is known that A = 0.
+Osvaldo says Rashida tells the truth: truth -> A' = 1. Since A = 0, A is not equal to A, so B = 0.
+Sherrie says Osvaldo tells the truth: truth -> B' = 1. Since B = 0, B is not equal to B', so C = 0.
+Gwenn says Sherrie tells the truth: truth -> C' = 1. Since C = 0, C is not equal to C', so D = 0.
+Jerry says Gwenn lies: lies -> D' = 0. Since D = 0, D is equal to D', so E = 1.
+Since E = 1, so the answer is: yes.
+
+# 1053 tokens

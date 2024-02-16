@@ -1,0 +1,35 @@
+Q: Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing goalkeeper, and Claire is playing right winger.
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Alice and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Claire is playing
+Options:
+(A) fullback
+(B) goalkeeper
+(C) right winger
+A: The question can be simplified to: It is known that A = 1, B = 2, C = 3.
+First, C and B trade positions: C and B -> (C = 3, B = 2 -> C = 2, B = 3) -> A = 1, B = 3, C = 2.
+Then, A and C trade positions: A and C -> (A = 1, C = 2 -> A = 2, C = 1) -> A = 2, B = 3, C = 1.
+Finally, A and B trade positions: A and B -> (A = 2, B = 3 -> A = 3, B = 2) -> A = 3, B = 2, C = 1.
+At the end of the match, Claire is playing: Claire -> C = 1, 1 -> the 1-st option -> the answer is (A).
+
+Q: Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Fellowship of the Ring, Bob gets Frankenstein, and Claire gets The Great Gatsby.
+As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Alice and Bob swap books. Finally, Claire and Bob swap books. At the end of the semester, Alice has
+Options:
+(A) The Fellowship of the Ring
+(B) Frankenstein
+(C) The Great Gatsby
+A: The question can be simplified to: It is known that A = 1, B = 2, C = 3.
+First, A and C swap books: A and C -> (A = 1, C = 3 -> A = 3, C = 1) -> A = 3, B = 2, C = 1.
+Then, A and B swap books: A and B -> (A = 3, B = 2 -> A = 2, B = 3) -> A = 2, B = 3, C = 1.
+Finally, C and B swap books: C and B -> (C = 1, B = 3 -> C = 3, B = 1) -> A = 2, B = 1, C = 3.
+At the end of the semester, Alice has: Alice -> A = 2, 2 -> the 2-nd option -> the answer is (B).
+
+Q: Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Ophelia, and Claire is dancing with Sam.
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Claire and Bob switch partners. Finally, Claire and Alice switch partners. At the end of the dance, Bob is dancing with
+Options:
+(A) Helga
+(B) Ophelia
+(C) Sam
+A: The question can be simplified to: It is known that A = 1, B = 2, C = 3.
+First, B and A switch partners: B and A -> (B = 2, A = 1 -> B = 1, A = 2) -> A = 2, B = 1, C = 3.
+Then, C and B switch partners: C and B -> (C = 3, B = 1 -> C = 1, B = 3) -> A = 2, B = 3, C = 1.
+Finally, C and A switch partners: C and A -> (C = 1, A = 2 -> C = 2, A = 1) -> A = 1, B = 3, C = 2.
+At the end of the dance, Bob is dancing with: Bob -> B = 3, 3 -> the 3-rd option -> the answer is (C).
